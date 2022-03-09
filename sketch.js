@@ -16,13 +16,13 @@ function draw()
 
   if (keyIsDown(LEFT_ARROW)) 
   {
-    background("blue");
-    
+    background("red");
+  
   }
  
     if (keyIsDown(UP_ARROW)) 
   {
-    background("yellow");
+    background("purple");
    
   }
 
